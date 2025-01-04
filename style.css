@@ -15,6 +15,9 @@ body {
     width: 80%;
     margin: auto;
 }
+.background{
+    background-color: #FFF8F3;
+}
 
 
 
@@ -65,6 +68,7 @@ body {
     position: relative;
     background: #FFF8F3;
 }
+
 
 .vertical-text {
     position: absolute;
